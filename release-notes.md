@@ -38,6 +38,6 @@ Downloads / Enhancements / News / Bug Fixes for QICI Engine
 ### Downloads
 [QICI Engine v1.0.0](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.0.0.zip)
 
-The first official release! Many thanks to all those who participated in, a special thank you to our core team members: **Shumu Wei**, **Qixian Chen**, **Dumin Wu**, **Yankai Li**, **Xian Chen**, **Jinhu Li** and **Yiwei Lin**. 
+The first official release! Many thanks to all those who participated in, a special thank you to our core team members. 
 
 
