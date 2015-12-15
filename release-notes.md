@@ -4,7 +4,7 @@ Downloads / Enhancements / News / Bug Fixes for QICI Engine
 ## 2015-12-11, Version 1.0.2
 
 ### Downloads
-[QICI Engine v1.0.2](released/qiciengine-1.0.2.zip)
+[QICI Engine v1.0.2](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.0.2.zip)
 
 ### Enhancements
 - Display User friendly error messages during exception in editor
@@ -22,7 +22,7 @@ Downloads / Enhancements / News / Bug Fixes for QICI Engine
 ## 2015-12-7, Version 1.0.1
 
 ### Downloads
-[QICI Engine v1.0.1](released/qiciengine-1.0.1.zip)
+[QICI Engine v1.0.1](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.0.1.zip)
 
 ### News
 - Added a [Baidu AD Union](http://union.baidu.com/) plugin
@@ -36,7 +36,7 @@ Downloads / Enhancements / News / Bug Fixes for QICI Engine
 ## 2015-12-4, Version 1.0.0
 
 ### Downloads
-[QICI Engine v1.0.0](released/qiciengine-1.0.0.zip)
+[QICI Engine v1.0.0](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.0.0.zip)
 
 The first official release! Many thanks to all those who participated in, a special thank you to our core team members: **Shumu Wei**, **Qixian Chen**, **Dumin Wu**, **Yankai Li**, **Xian Chen**, **Jinhu Li** and **Yiwei Lin**. 
 
