@@ -20,7 +20,7 @@ QICI Engine is a free and open source JavaScript game engine library with a web-
 
 With QICI Engine, creating HTML5 Games just like Web Development, use your favorite code editor, use your favorite web browser, leverage JavaScript language and all the best web development tools, QICI Engine takes care of the complexity of the underlying technologies, so you just focus on what's important - making your game!
 
-![Overview](images/overview.png)
+<img width='400' src="images/overview.png">
 
 ## Technology Stack
 
@@ -40,10 +40,42 @@ QICI Widget provides the HTML5 UI widgets for making the GUI in QICI Editor.
 
 QICI Core is a JavaScript Game library, QICI Widget is a JavaScript UI library, and QICI Editor uses Node.js for accessing the file system, so QICI Engine is a Full-Stack JavaScript Game Engine.
 
-![Technology Stack](images/techstack.png)
+<img width='400' src="images/techstack.png">
 
 ## Features
 
+- **QICI Core**
+    - WebGL and Canvas rendering support
+    - [UI Components](http://docs.qiciengine.com/manual/UI/Sample.html): Toggle, Slider, ProgressBar, ScrollView, List, Table, etc.
+    - [DragonBones](http://docs.qiciengine.com/manual/DragonBone/index.html) skeleton animation data format support
+    - [Rect Transform](http://docs.qiciengine.com/manual/UI/BasicLayout.html) UI Layout
+    - [NinePatch image](http://docs.qiciengine.com/manual/NinePatch/index.html)
+    - [NodeMask](http://docs.qiciengine.com/manual/BuildinComponents/NodeMask.html) and [Filter](http://docs.qiciengine.com/manual/Filter/index.html) effect
+    - Mixing [Dom](http://docs.qiciengine.com/manual/Sample/Dom.html) and canvas
+    - [Web fonts](http://docs.qiciengine.com/manual/WebFont/index.html) and [Bitmap fonts](http://docs.qiciengine.com/manual/BitmapFont/index.html)
+    - [Web Audio and Audio Tag](http://docs.qiciengine.com/manual/Sound/index.html)
+    - [Tween animation](http://docs.qiciengine.com/manual/Tween/index.html)
+    - [Behavioural oriented architecture](http://docs.qiciengine.com/manual/Behaviour/index.html)
+    - [Asset Management](http://docs.qiciengine.com/manual/AssetsLoad/index.html)
+    - [Serialization](http://docs.qiciengine.com/manual/Serializer/index.html) with scene and prefab
+    - Mouse, Keyboard and Touch support
+    - [Import data from Excel](http://docs.qiciengine.com/manual/Excel/index.html)
+    - Plugin system with official plugins like [Arcade Physics](http://docs.qiciengine.com/manual/Plugin/Arcade.html) and [Lock Orientation](http://docs.qiciengine.com/manual/Plugin/LockOrientation.html)
+- **QICI Editor**
+	- [Project Management](http://docs.qiciengine.com/manual/Project/index.html)
+	- [Scene Management](http://docs.qiciengine.com/manual/Scene/index.html)	
+	- [Hierarchy panel](http://docs.qiciengine.com/manual/Interface/Hierarchy.html), [Scene panel](http://docs.qiciengine.com/manual/Interface/Scene.html) and [Inspector panel](http://docs.qiciengine.com/manual/Interface/Inspector.html)
+	- [Texture atlases](http://docs.qiciengine.com/manual/Atlas/index.html)
+	- [Editing tween curve](http://docs.qiciengine.com/manual/Tween/index.html)
+	- [Editing NinePatch](http://docs.qiciengine.com/manual/NinePatch/index.html)
+	- [Import and preview skeleton animation](http://docs.qiciengine.com/manual/DragonBone/index.html)
+	- [Extending Editor](http://docs.qiciengine.com/manual/ExtendEditor/index.html)
+	- [Project settings](http://docs.qiciengine.com/manual/Settings/index.html)
+	- [Publishing Project](http://docs.qiciengine.com/manual/Publish/index.html)
+
+You can even run QICI Editor in your mobile device browsers:  
+<img width='400' src="images/iphone.jpg">
+<img width='400' src="images/ipad.jpg">
 
 ## Getting Started
 
@@ -63,7 +95,7 @@ The website’s documentation is divided into multiple sections.
 
 ## Examples
 
-A wide range of [source code examples](http://engine.qiciengine.com/demo/) for you to explore.
+A wide range of [source code examples](http://engine.qiciengine.com/demo/) for you to explore. Download all in [one zip](http://engine.qiciengine.com/demo/QICI_Demos.zip) file.   
 
 <a href="http://engine.qiciengine.com/demo/Project/dota/index.html" target="_blank"><img width='200' src="images/example1.png"></a> <a href="http://engine.qiciengine.com/demo/Project/tower/index.html" target="_blank"><img width='200' src="images/example2.png"></a>
 <a href="http://engine.qiciengine.com/demo/Project/sources/index.html" target="_blank"><img width='200' src="images/example3.png"></a> <a href="http://engine.qiciengine.com/demo/misc/performance/index.html" target="_blank"><img width='200' src="images/example4.png"></a>
