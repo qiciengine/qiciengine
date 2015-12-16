@@ -70,7 +70,7 @@ A wide range of [source code examples](http://engine.qiciengine.com/demo/) for y
 <a href="http://engine.qiciengine.com/demo/misc/widgets/index.html" target="_blank"><img width='200' src="images/example5.png"></a> <a href="http://engine.qiciengine.com/demo/Layout/slime/index.html" target="_blank"><img width='200' src="images/example6.png"></a>
 <a href="http://engine.qiciengine.com/demo/Layout/tablelayout/index.html" target="_blank"><img width='200' src="images/example7.png"></a> <a href="http://engine.qiciengine.com/demo/Tilemap/tilemap_Mario/index.html" target="_blank"><img width='200' src="images/example8.png"></a>
 <a href="http://engine.qiciengine.com/demo/Layout/qq/index.html" target="_blank"><img width='200' src="images/example9.png"></a> <a href="http://engine.qiciengine.com/demo/Layout/anchors/index.html" target="_blank"><img width='200' src="images/example10.png"></a>
-
+<a href="http://engine.qiciengine.com/demo/ProgressBar/progressBar_mixed/index.html" target="_blank"><img width='200' src="images/example11.png"></a> <a href="http://engine.qiciengine.com/demo/UIText/text/index.html" target="_blank"><img width='200' src="images/example12.png"></a>
 
 ## Opening Issues
 
