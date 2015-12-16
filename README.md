@@ -74,8 +74,7 @@ QICI Core is a JavaScript Game library, QICI Widget is a JavaScript UI library, 
 	- [Publishing Project](http://docs.qiciengine.com/manual/Publish/index.html)
 
 You can even run QICI Editor in your mobile device browsers:  
-<img width='400' src="images/iphone.jpg">
-<img width='400' src="images/ipad.jpg">
+<img width='400' src="images/iphone.jpg"><br><img width='400' src="images/dota.png"><br><img width='400' src="images/ipad.jpg">
 
 ## Getting Started
 
