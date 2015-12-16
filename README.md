@@ -65,8 +65,12 @@ The website’s documentation is divided into multiple sections.
 
 A wide range of [source code examples](http://engine.qiciengine.com/demo/) for you to explore.
 
-[![Dota](images/example1.jpg)](http://engine.qiciengine.com/demo/Project/dota/index.html)[![Tower](images/example2.jpg)](http://engine.qiciengine.com/demo/Project/tower/index.html)  
-[![Source](images/example3.jpg)](http://engine.qiciengine.com/demo/Project/sources/index.html)[![Performance](images/example4.jpg)](http://engine.qiciengine.com/demo/misc/performance/index.html)  
+<a href="http://engine.qiciengine.com/demo/Project/dota/index.html" target="_blank"><img width='200' src="images/example1.png"></a> <a href="http://engine.qiciengine.com/demo/Project/tower/index.html" target="_blank"><img width='200' src="images/example2.png"></a>
+<a href="http://engine.qiciengine.com/demo/Project/sources/index.html" target="_blank"><img width='200' src="images/example3.png"></a> <a href="http://engine.qiciengine.com/demo/misc/performance/index.html" target="_blank"><img width='200' src="images/example4.png"></a>
+<a href="http://engine.qiciengine.com/demo/misc/widgets/index.html" target="_blank"><img width='200' src="images/example5.png"></a> <a href="http://engine.qiciengine.com/demo/Layout/slime/index.html" target="_blank"><img width='200' src="images/example6.png"></a>
+<a href="http://engine.qiciengine.com/demo/Layout/tablelayout/index.html" target="_blank"><img width='200' src="images/example7.png"></a> <a href="http://engine.qiciengine.com/demo/Tilemap/tilemap_Mario/index.html" target="_blank"><img width='200' src="images/example8.png"></a>
+<a href="http://engine.qiciengine.com/demo/Layout/qq/index.html" target="_blank"><img width='200' src="images/example9.png"></a> <a href="http://engine.qiciengine.com/demo/Layout/anchors/index.html" target="_blank"><img width='200' src="images/example10.png"></a>
+
 
 ## Opening Issues
 
