@@ -1,6 +1,10 @@
 # Release Notes
 Downloads / Enhancements / News / Bug Fixes for QICI Engine
 
+## Examples
+
+A wide range of [source code examples](http://engine.qiciengine.com/demo/) for you to explore. Download all in [one zip](http://engine.qiciengine.com/demo/QICI_Demos.zip) file.   
+
 ## 2015-12-11, Version 1.0.2
 
 ### Downloads

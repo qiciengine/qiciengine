@@ -1,6 +1,6 @@
 <p align="center"><a href="http://www.qiciengine.com" target="_blank"><img src="images/logo.png"></a></p>
 
-# QICI Engine
+# QICI Engine ([青瓷引擎中文](README-cn.md))
 
 - [Introduction](#introduction)
 - [Technology Stack](#technology-stack)
@@ -18,7 +18,7 @@
 
 QICI Engine is a free and open source JavaScript game engine library with a web-based comprehensive suite of toolset for making HTML5 games. 
 
-With QICI Engine, creating HTML5 Games just like Web Development, use your favorite code editor, use your favorite web browser, leverage JavaScript language and all the best web development tools, QICI Engine takes care of the complexity of the underlying technologies, so you just focus on what's important - making your game!
+With QICI Engine, creating HTML5 Games just like Web Development, use your favorite code editor, use your favorite web browser, leverage JavaScript language and all the best web development tools. QICI Engine takes care of the complexity of the underlying technologies, so you just focus on what's important - making your game!
 
 <img width='400' src="images/overview.png">
 
@@ -47,12 +47,13 @@ QICI Core is a JavaScript Game library, QICI Widget is a JavaScript UI library, 
 - **QICI Core**
     - WebGL and Canvas rendering support
     - [UI Components](http://docs.qiciengine.com/manual/UI/Sample.html): Toggle, Slider, ProgressBar, ScrollView, List, Table, etc.
-    - [DragonBones](http://docs.qiciengine.com/manual/DragonBone/index.html) skeleton animation data format support
     - [Rect Transform](http://docs.qiciengine.com/manual/UI/BasicLayout.html) UI Layout
+    - [DragonBones](http://docs.qiciengine.com/manual/DragonBone/index.html) skeleton animation data format support       
     - [NinePatch image](http://docs.qiciengine.com/manual/NinePatch/index.html)
     - [NodeMask](http://docs.qiciengine.com/manual/BuildinComponents/NodeMask.html) and [Filter](http://docs.qiciengine.com/manual/Filter/index.html) effect
-    - Mixing [Dom](http://docs.qiciengine.com/manual/Sample/Dom.html) and canvas
+    - Mixing [Dom](http://docs.qiciengine.com/manual/Sample/Dom.html) and Canvas
     - [Web fonts](http://docs.qiciengine.com/manual/WebFont/index.html) and [Bitmap fonts](http://docs.qiciengine.com/manual/BitmapFont/index.html)
+    - [JSON Tiled map editor file support](http://docs.qiciengine.com/manual/Sample/Tilemap.html)
     - [Web Audio and Audio Tag](http://docs.qiciengine.com/manual/Sound/index.html)
     - [Tween animation](http://docs.qiciengine.com/manual/Tween/index.html)
     - [Behavioural oriented architecture](http://docs.qiciengine.com/manual/Behaviour/index.html)
@@ -66,6 +67,7 @@ QICI Core is a JavaScript Game library, QICI Widget is a JavaScript UI library, 
 	- [Scene Management](http://docs.qiciengine.com/manual/Scene/index.html)	
 	- [Hierarchy panel](http://docs.qiciengine.com/manual/Interface/Hierarchy.html), [Scene panel](http://docs.qiciengine.com/manual/Interface/Scene.html) and [Inspector panel](http://docs.qiciengine.com/manual/Interface/Inspector.html)
 	- [Texture atlases](http://docs.qiciengine.com/manual/Atlas/index.html)
+    - [Frame Animation](http://docs.qiciengine.com/manual/FrameAnimation/index.html) 
 	- [Editing tween curve](http://docs.qiciengine.com/manual/Tween/index.html)
 	- [Editing NinePatch](http://docs.qiciengine.com/manual/NinePatch/index.html)
 	- [Import and preview skeleton animation](http://docs.qiciengine.com/manual/DragonBone/index.html)
@@ -91,6 +93,7 @@ The website’s documentation is divided into multiple sections.
 - There are [Guides](http://docs.qiciengine.com/manual/index.html) that discuss topics like [Using Editor](http://docs.qiciengine.com/manual/Interface/index.html), [UI and Components](http://docs.qiciengine.com/manual/UI/index.html), [Official Plugins](http://docs.qiciengine.com/manual/Plugin/Official.html) and [Extending Editor](http://docs.qiciengine.com/manual/ExtendEditor/index.html).
 - The [API Documentation](http://docs.qiciengine.com/api/index.html) for QICI Core
 - The Demo Guides teaching you to build the demo step by step.
+    - To be continued...
 
 ## Examples
 
@@ -107,7 +110,7 @@ A wide range of [source code examples](http://engine.qiciengine.com/demo/) for y
 
 If you encounter a bug with QICI Engine we would like to hear about it. Search the [existing issues](https://github.com/qiciengine/qiciengine/issues) and try to make sure your problem doesn’t already exist before opening a new issue. It’s helpful if you include the version of QICI Engine and browser you’re using. Please include a stack trace and reduced repro case when appropriate, too.
 
-QICI Engine issues are not only just for bug reports and feature requests, it is also for help and questions when using QICI Engine. If you want to hang out and chat about game dev in general, please join our slack channel in [Stay In Touch](#stay-in-touch) section.
+QICI Engine issues are intended for bug reports and feature requests. For help and questions with using QICI Engine please make use of our [Ask forum](http://ask.qiciengine.com/). If you want to hang out and chat about game dev in general, please join our slack channel in [Stay In Touch](#stay-in-touch) section.
 
 ## Contributing
 
@@ -118,6 +121,8 @@ Currently the QICI Core is a single bunlded JavaScript file (/lib/qc-core-debug.
 Details changes for each release are documented in the [release notes](release-notes.md). We recommend you use the latest version of QICI Engine.
 
 ## Stay In Touch
+
+If you have questions with using QICI Engine please visit our [Ask forum](http://ask.qiciengine.com/), We will answer to your questions ASAP.
 
 If you use [Slack](http://slack.com/) and would like to join the [QICI Engine channel](http://qiciengine.slack.com) then please [drop we an email](mailto:linyw@qcplay.com?subject=Slack Invite&body=Please invite me to the QICI Engine slack channel.%0A%0AMy%20email%20address%20is%3A%20___%0AMy%20first%20name%20is%3A%20___%0AMy%20last%20name%20is%3A%20___). All we need is your email address, first name and last name and then we can send you an invite to the channel.
 
