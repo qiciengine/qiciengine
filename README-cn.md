@@ -74,7 +74,7 @@ QICI Core 是基于 JavaScript 的游戏引擎类库，QICI Widget 是基于 Jav
 	- [工程设置](http://docs.zuoyouxi.com/manual/Settings/index.html)
 	- [工程发布](http://docs.zuoyouxi.com/manual/Publish/index.html)
 
-你甚至可以在移动终端浏览器打开 QICI Editor 进行游戏开发：
+你甚至可以在移动终端浏览器打开 QICI Editor 进行游戏开发：  
 <img width='400' src="images/iphone.jpg"><br><img width='400' src="images/dota.png"><br><img width='400' src="images/ipad.jpg">
 
 ## 入门
@@ -118,10 +118,10 @@ QICI Core 是基于 JavaScript 的游戏引擎类库，QICI Widget 是基于 Jav
 
 ## 联系我们
 
-QQ群：214396286
-问答：[http://wenda.zuoyouxi.com/](http://wenda.zuoyouxi.com)
-论坛：[http://bbs.zuoyouxi.com/forum.php](http://bbs.zuoyouxi.com/forum.php)
-官网：[http://www.zuoyouxi.com](http://www.zuoyouxi.com)
+- QQ群：214396286
+- 问答：[http://wenda.zuoyouxi.com/](http://wenda.zuoyouxi.com)
+- 论坛：[http://bbs.zuoyouxi.com/forum.php](http://bbs.zuoyouxi.com/forum.php)
+- 官网：[http://www.zuoyouxi.com](http://www.zuoyouxi.com)
 
 ## 授权协议
 
