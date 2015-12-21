@@ -114,7 +114,7 @@ QICI Core 是基于 JavaScript 的游戏引擎类库，QICI Widget 是基于 Jav
 
 ## 变更记录
 
-青瓷引擎的所有版本发布历史及变更记录都在论坛的[此贴](http://bbs.zuoyouxi.com/forum.php?mod=viewthread&tid=86&page=1&extra=#pid103)中持续更新
+青瓷引擎的所有版本发布历史及变更记录都在论坛的[此贴](http://bbs.zuoyouxi.com/forum.php?mod=viewthread&tid=86&page=1&extra=#pid103)中持续更新。
 
 ## 联系我们
 
