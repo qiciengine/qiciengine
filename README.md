@@ -81,7 +81,7 @@ You can even run QICI Editor in your mobile device browsers:
 ## Getting Started
 
 - Follow the [Installation Guide](http://docs.qiciengine.com/manual/Overview/Install.html) to install [Node.js](http://nodejs.org/) and the latest [QICI Editor](https://github.com/qiciengine/qiciengine/blob/master/release-notes.md).
-- Read the [Project Management Guide](http://docs.qiciengine.com/manual/Project/index.html) to create a new prject.
+- Read the [Project Management Guide](http://docs.qiciengine.com/manual/Project/index.html) to create a new project.
 - Read the [Scene Editing Guide](http://docs.qiciengine.com/manual/Scene/index.html) to create a new scene.
 - Read the [UI and Components Guide](http://docs.qiciengine.com/manual/UI/index.html) to add some components on the scene.
 - Press the "Run" button from the [Toolbar](http://docs.qiciengine.com/manual/Interface/ToolBar.html) or select the "Edit/Preview(WebGL)" item from the [Main Menu](http://docs.qiciengine.com/manual/Interface/MainMenu.html) to play and test the game.
@@ -114,7 +114,7 @@ QICI Engine issues are intended for bug reports and feature requests. For help a
 
 ## Contributing
 
-Currently the QICI Core is a single bunlded JavaScript file (/lib/qc-core-debug.js) in QICI Editor, we will put QICI Engine project in GitHub repository for community contributions soon. At that time, we will provide more detail on our guidance on how to contribute effectively to the project. 
+Currently the QICI Core is a single bundled JavaScript file (/lib/qc-core-debug.js) in QICI Editor, we will put QICI Engine project in GitHub repository for community contributions soon. At that time, we will provide more detail on our guidance on how to contribute effectively to the project. 
 
 ## Changelog
 

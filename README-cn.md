@@ -29,9 +29,9 @@ Phaser 主要由 [@photonstorm](https://twitter.com/photonstorm) 持续的开发
 
 青瓷引擎由三部分组成：QICI Core、QICI Widget 和 QICI Editor
 
-QICI Core：一套基于 Phaser 的 JavaScript 游戏引擎类库。
-QICI Widget：一套 JavaScript 通用图形组件库。
-QICI Editor：一套基于浏览器的跨平台集成式游戏编辑器，包含基于 [Node.js](http://nodejs.org/) 的后台服务。
+QICI Core：一套基于 Phaser 的 JavaScript 游戏引擎类库。  
+QICI Widget：一套 JavaScript 通用图形组件库。  
+QICI Editor：一套基于浏览器的跨平台集成式游戏编辑器，包含基于 [Node.js](http://nodejs.org/) 的后台服务。  
 
 QICI Core 是青瓷引擎的核心模块，QICI Editor 需要基于 QICI Core 才可运行，但 QICI Core 无需 QICI Editor 也可独立工作，通过编程创建 HTML5 游戏。但没有 QICI Editor 这种所见即所得的功能支持，很难维护和构建用户界面稍微复杂点的游戏，采用 QICI Editor 甚至可以让美工和策划参与帮助构建用户游戏界面。
 
