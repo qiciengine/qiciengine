@@ -5,6 +5,39 @@ Downloads / Enhancements / News / Bug Fixes for QICI Engine
 
 A wide range of [source code examples](http://engine.qiciengine.com/demo/) for you to explore. Download all in [one zip](http://engine.qiciengine.com/demo/QICI_Demos.zip) file.   
 
+## 2015-12-31, Version 1.0.4
+
+### Downloads
+[QICI Engine v1.0.4](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.0.4.zip)
+
+### Enhancements
+- Significantly improve the rendering performance on [Tencent X5 browser](http://x5.tencent.com/)
+- Use the IP address to replace the localhost for the URL in editor
+- Display the reference missing notification mark on the inspector in editor 
+- Multi click to select the belowing nodes function on the scene panel in editor
+- Texture atlas on the specified directory
+- Imporve the server's extendable function in editor
+- Remove the invalid project from the recent list automactically
+
+### News
+- Add four method(playForward, playGroupForward, playReverse, playGroupReverse) and the reset param for Tween class
+- Add fading out effect for game loading UI
+- Add customizable loading text for game loading UI
+- Add 'Play from Entry' menu function in editor
+- Add the selectable and editable function in editor when playing game
+- Add the function to drag the prefab from project into the scene and hierarchy to create node
+
+### Bug Fixes
+- Fix the Unix-like system's bug in editor, see [Unable to create project with Ubuntu](https://github.com/qiciengine/qiciengine/issues/1) 
+- Fix the CacheAsBitmap's wrong display issue on some mobile browsers
+- Fix the wrong clip of the UIText's left-top outline and shadow 
+- Fix the UIText's duplicated draw shadow issue
+- Fix the bug that div element still exists when the Dom node is destoryed 
+- Fix the context menu's wrong selection state on the windows Chrome browser in editor
+- Fix the context menu's exception on the Safari browser
+- Fix the exception when displaying the Prefab array type on the inspector in editor
+- Fix the wrong JavaScript files dependency bug
+
 ## 2015-12-21, Version 1.0.3
 
 ### Downloads

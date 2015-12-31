@@ -114,7 +114,7 @@ QICI Engine issues are intended for bug reports and feature requests. For help a
 
 ## Contributing
 
-Currently the QICI Core is a single bundled JavaScript file (/lib/qc-core-debug.js) in QICI Editor, we will put QICI Engine project in GitHub repository for community contributions soon. At that time, we will provide more detail on our guidance on how to contribute effectively to the project. 
+Currently the QICI Core is a single bundled JavaScript file (/lib/qc-core-debug.js) in QICI Editor, we will put QICI Engine project in GitHub repository for community contributions soon. At that time, we will provide more details on our guidance on how to contribute effectively to the project. 
 
 ## Changelog
 
@@ -122,7 +122,7 @@ Details changes for each release are documented in the [release notes](release-n
 
 ## Stay In Touch
 
-If you have questions with using QICI Engine please visit our [Ask forum](http://ask.qiciengine.com/), We will answer to your questions ASAP.
+If you have questions with using QICI Engine please visit our [Ask forum](http://ask.qiciengine.com/), We will answer your questions ASAP.
 
 If you use [Slack](http://slack.com/) and would like to join the [QICI Engine channel](http://qiciengine.slack.com) then please [drop we an email](mailto:linyw@qcplay.com?subject=Slack Invite&body=Please invite me to the QICI Engine slack channel.%0A%0AMy%20email%20address%20is%3A%20___%0AMy%20first%20name%20is%3A%20___%0AMy%20last%20name%20is%3A%20___). All we need is your email address, first name and last name and then we can send you an invite to the channel.
 
@@ -130,7 +130,7 @@ If you want to keep up to date with the latest QICI Engine news then just follow
 
 For more Information, please visit our official [QICI Engine webstie](http://www.qiciengine.com) or [Chinese website](http://www.zuoyouxi.com). 
 
-If you have any questions or if there is something we didn’t cover, please feel free to contact me at [Email](mailto:linyw@qcplay.com) or [Twitter](http://twitter.com/sailing8036).
+If you have any questions or if there is something we didn’t cover, please feel free to contact me at [email](mailto:linyw@qcplay.com) or [Twitter](http://twitter.com/sailing8036).
 
 ## License
 
