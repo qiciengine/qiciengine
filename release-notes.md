@@ -5,6 +5,22 @@ Downloads / Enhancements / News / Bug Fixes for QICI Engine
 
 A wide range of [source code examples](http://engine.qiciengine.com/demo/) for you to explore. Download all in [one zip](http://engine.qiciengine.com/demo/QICI_Demos.zip) file.   
 
+## 2016-01-04, Version 1.0.5
+
+### Downloads
+[QICI Engine v1.0.5](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.0.5.zip)
+
+### Enhancements
+- Optimize canvas rendering with the managemenet of dirty rectangles 
+
+### News
+- Set all Dom's box-sizing css value as border-box in style.css 
+- Add the function to call the client to run script from the server 
+
+### Bug Fixes
+- Fix the extend editor scripts missing import issue
+- Fix the wrong CalcUpdateTransform parameter value in DebugViewer
+
 ## 2015-12-31, Version 1.0.4
 
 ### Downloads
@@ -20,7 +36,7 @@ A wide range of [source code examples](http://engine.qiciengine.com/demo/) for y
 - Remove the invalid project from the recent list automactically
 
 ### News
-- Add four method(playForward, playGroupForward, playReverse, playGroupReverse) and the reset param for Tween class
+- Add 4 methods(playForward, playGroupForward, playReverse and playGroupReverse) for Tween class
 - Add fading out effect for game loading UI
 - Add customizable loading text for game loading UI
 - Add 'Play from Entry' menu function in editor
