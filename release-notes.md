@@ -5,13 +5,34 @@ Downloads / Enhancements / News / Bug Fixes for QICI Engine
 
 A wide range of [source code examples](http://engine.qiciengine.com/demo/) for you to explore. Download all in [one zip](http://engine.qiciengine.com/demo/QICI_Demos.zip) file.   
 
+## 2016-01-08, Version 1.0.6
+
+### Downloads
+[QICI Engine v1.0.6](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.0.6.zip)
+
+### Enhancements
+- Reduce the canvas consumption in Tilemap's layers 
+- Improve the process performance for interaction
+
+### News
+- Add the funtion to enable or disable antialiasing dynamically
+- Add the device information to be displayed in DebugViewer component
+- Add addListenerOnce and removeListener methods on Node and Behaviour
+- Add the function to run script from the server to the specified client browser
+
+### Bug Fixes
+- Fix the callback function parameter loss issue in Arcade Physics
+- Fix the dirty rectangles management bug in some components
+- Fix the game stuck issue on some mobile browsers when the mp3 file asset is missing
+- Fix the scene can not clean clearly issue when enabling dirty rectangles management in editor
+
 ## 2016-01-04, Version 1.0.5
 
 ### Downloads
 [QICI Engine v1.0.5](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.0.5.zip)
 
 ### Enhancements
-- Optimize canvas rendering with the managemenet of dirty rectangles 
+- Optimize canvas rendering with the management of dirty rectangles 
 
 ### News
 - Set all Dom's box-sizing css value as border-box in style.css 
