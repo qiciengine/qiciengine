@@ -1,9 +1,47 @@
 # Release Notes
-Downloads / Enhancements / News / Bug Fixes for QICI Engine
+Downloads / New Features / Enhancements / Bug Fixes for QICI Engine
 
 ## Examples
 
 A wide range of [source code examples](http://engine.qiciengine.com/demo/) for you to explore. Download all in [one zip](http://engine.qiciengine.com/demo/QICI_Demos.zip) file.   
+
+## 2016-01-28, Version 1.0.7
+
+### Downloads
+[QICI Engine v1.0.7](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.0.7.zip)
+
+### New Features
+- Rich Text plugin
+- Particle System plugin (Beta)
+- Action editor (Beta)
+- Box2D Plugin (Beta) 
+- Option to fix game size in project settings
+
+### Enhancements
+- Changed 'state' terminology usage to 'scene' throughout QICI
+- Changed snapshotAsImage method parameter from global to local 
+- Added setTileIndex method (supports modifying tiles) to TileLayer
+- Added qc.Des.encrypt and qc.Des.decrypt data encryption methods
+- Changed the default duration value of Tween from 0 to 1 
+- Improved the Arcade physics scheduling
+- Prevent image drawing when width or height is 0 in Canvas rendering mode
+- Added onDeserialized event to Node
+- Added r, g, b properties to qc.Color
+- Added alpha property to qc.Dom
+- Enabled roundPixeds in Canvas rendering mode
+- Improved the Editor Welcome Page
+- Disabled instant delete (via keyboard or menu) for some directories
+
+### Bugs Fixes
+- Fixed: children missing update when parent is removed in dirty rectangles management
+- Fixed: position update delay of NodeMask componet draw in RenderTexture
+- Fixed: qc.Dom bug in [Tencent X5 browser](http://x5.tencent.com/)
+- Fixed: Slider's canPurse failure when fixedSize a negative value
+- Fixed: Buttons no longer clickable when parent invisible
+- Fixed: frameNames error when texture atlas is only one image
+- Fixed: InputField on longer editable when parent invisible
+- Fixed: Array type serialization bug
+- Fixed: maximum frame rate limit not working
 
 ## 2016-01-08, Version 1.0.6
 
