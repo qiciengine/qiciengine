@@ -110,6 +110,14 @@ QICI Core 是基于 JavaScript 的游戏引擎类库，QICI Widget 是基于 Jav
 
 ## 参与
 
+青瓷引擎核心:[https://github.com/qiciengine/qiciengine-core](https://github.com/qiciengine/qiciengine-core)
+青瓷引擎文档:[https://github.com/qiciengine/qiciengine-documentation](https://github.com/qiciengine/qiciengine-documentation)
+青瓷引擎例子:[https://github.com/qiciengine/qiciengine-examples](https://github.com/qiciengine/qiciengine-examples)
+青瓷引擎书籍:[https://github.com/qiciengine/qiciengine-cookbook](https://github.com/qiciengine/qiciengine-cookbook)
+轻量游戏服务器: [https://github.com/qiciengine/qiciengine-server](https://github.com/qiciengine/qiciengine-server)
+
+以上仓库欢迎大家参与提交问题、建议、修正和完善！
+
 目前青瓷引擎的的源代码在发布包的 /lib/qc-core-debug.js 路径，青瓷引擎工程还在内部重构中，我们会尽快发布到 Github 仓库，到时欢迎大家一起参与完善。
 
 ## 变更记录

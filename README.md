@@ -114,7 +114,13 @@ QICI Engine issues are intended for bug reports and feature requests. For help a
 
 ## Contributing
 
-Currently the QICI Core is a single bundled JavaScript file (/lib/qc-core-debug.js) in QICI Editor, we will put QICI Engine project in GitHub repository for community contributions soon. At that time, we will provide more details on our guidance on how to contribute effectively to the project. 
+QICI Engine Core:[https://github.com/qiciengine/qiciengine-core](https://github.com/qiciengine/qiciengine-core)
+QICI Engine Documentation:[https://github.com/qiciengine/qiciengine-documentation](https://github.com/qiciengine/qiciengine-documentation)
+QICI Engine Examples:[https://github.com/qiciengine/qiciengine-examples](https://github.com/qiciengine/qiciengine-examples)
+QICI Engine Cookbook:[https://github.com/qiciengine/qiciengine-cookbook](https://github.com/qiciengine/qiciengine-cookbook)
+Lightweight Game Server: [https://github.com/qiciengine/qiciengine-server](https://github.com/qiciengine/qiciengine-server)
+
+Everybody is welcomed to report issues or pull requests for all the GitHub repositories mentioned above.
 
 ## Changelog
 
