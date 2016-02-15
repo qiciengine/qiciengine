@@ -114,10 +114,10 @@ QICI Engine issues are intended for bug reports and feature requests. For help a
 
 ## Contributing
 
-- QICI Engine Core:[https://github.com/qiciengine/qiciengine-core](https://github.com/qiciengine/qiciengine-core)
-- QICI Engine Documentation:[https://github.com/qiciengine/qiciengine-documentation](https://github.com/qiciengine/qiciengine-documentation)
-- QICI Engine Examples:[https://github.com/qiciengine/qiciengine-examples](https://github.com/qiciengine/qiciengine-examples)
-- QICI Engine Cookbook:[https://github.com/qiciengine/qiciengine-cookbook](https://github.com/qiciengine/qiciengine-cookbook)
+- QICI Engine Core: [https://github.com/qiciengine/qiciengine-core](https://github.com/qiciengine/qiciengine-core)
+- QICI Engine Documentation: [https://github.com/qiciengine/qiciengine-documentation](https://github.com/qiciengine/qiciengine-documentation)
+- QICI Engine Examples: [https://github.com/qiciengine/qiciengine-examples](https://github.com/qiciengine/qiciengine-examples)
+- QICI Engine Cookbook: [https://github.com/qiciengine/qiciengine-cookbook](https://github.com/qiciengine/qiciengine-cookbook)
 - Lightweight Game Server: [https://github.com/qiciengine/qiciengine-server](https://github.com/qiciengine/qiciengine-server)
 
 Everybody is welcomed to report issues or pull requests for all the GitHub repositories mentioned above.
