@@ -5,6 +5,35 @@ Downloads / New Features / Enhancements / Bug Fixes for QICI Engine
 
 A wide range of [source code examples](http://engine.qiciengine.com/demo/) for you to explore. Download all in [one zip](http://engine.qiciengine.com/demo/QICI_Demos.zip) file.   
 
+## 2016-03-04, Version 1.0.8
+
+### Downloads
+[QICI Engine v1.0.8](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.0.8.zip)
+
+### New Features
+- Dropdown game object
+- TweenTransform Component
+- Highlight and locate JavaScript file from Inspector panel
+- Resolution Settings
+
+### Enhancements
+- Change UIImage and Sprite's texture type from qc.Atlas to qc.Texture
+- Add autoHide property on ScrollBar
+- Highlight current scene in Project panel
+- Enchance Action editor
+- Enable/Disable auto refresh in Preference settings
+- Disconnectable relation between Node and Prefab
+- Enchance WebGL support check, and change WebGL rendering to Auto mode
+- Add Undo and Redo features for Tween Curve editing
+- Auto apply changes in Project Settings panel
+
+### Bugs Fixes
+- Fixed Particle System bug in dirty rectangles management mode
+- Fixed getting wrong sound duration issue
+- Fixed Particle System Emitter Prefab modify error issue 
+- Fixed UIText rendering bug when filtering
+- Fixed Filter error when its range exceeds the screen size
+
 ## 2016-01-28, Version 1.0.7
 
 ### Downloads
