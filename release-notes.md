@@ -5,6 +5,26 @@ Downloads / New Features / Enhancements / Bug Fixes for QICI Engine
 
 A wide range of [source code examples](http://engine.qiciengine.com/demo/) for you to explore. Download all in [one zip](http://engine.qiciengine.com/demo/QICI_Demos.zip) file.   
 
+## 2016-03-08, Version 1.0.9
+
+### Downloads
+[QICI Engine v1.0.9](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.0.9.zip)
+
+### New Features
+- Add specify asset type feature for search filtering in Project
+- Add creating script feature in Add Component panel
+
+### Enhancements
+- Setting nine patch for texture in Inspector panel
+
+### Bugs Fixes
+- Fixed context menu displaying duplicated items bug in Hierarchy panel
+- Fixed nine patch texture not working bug
+- Fixed InputField text can not be selected bug 
+- Fixed the rendering error when filterArea has padding
+- Fixed the script locating error in Windows system
+- Fixed the wrong LinearVelocity value of Box2D body
+
 ## 2016-03-04, Version 1.0.8
 
 ### Downloads
