@@ -5,6 +5,49 @@ Downloads / New Features / Enhancements / Bug Fixes for QICI Engine
 
 A wide range of [source code examples](http://engine.qiciengine.com/demo/) for you to explore. Download all in [one zip](http://engine.qiciengine.com/demo/QICI_Demos.zip) file.   
 
+## Desktop Version
+Thanks [zajako](https://github.com/zajako) for helping us to provide QICI desketop version powered by [Electron](http://electron.atom.io/), if you want to try just download it from [here](https://github.com/zajako/qici_desktop/tree/master/Releases).
+
+## 2016-04-01, Version 1.1.0
+[QICI Engine v1.1.0](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.1.0.zip)
+
+### New Features
+- [Custom loading UI example](http://docs.qiciengine.com/manual/LoadingPrefab/loading.html)
+- Support creating [action manager](http://docs.qiciengine.com/manual/Action/ActionManager.html) 
+- Glow filter
+- Six layout options for editor
+- Support custom Box2d shape for node
+- [Box2dweb](https://github.com/hecht-software/box2dweb) plugin
+- Support [Crosswalk](https://crosswalk-project.org/) for packing Android and iOS apps 
+
+### Enhancements
+- Copy and paste properties on action editor
+- Snap editing for Rect Transform
+- Highlight node name and size on Scene and Hierarchy pane when mouse over
+- Improve loading feature for easier customization
+- Use scene path to replace scene name in editor
+- Move some Project Settings params to Publish panel
+- Support create scenes in subdirectories of Assets/scene
+- Auto save on Preference Settings panel
+- Change default render mode as Canvas
+- Improve logging display for exception
+- Auto adjust anti-aliasing for UIText basing on scale and rotaion
+
+### Bugs Fixes
+- Fixed wrong display WebFont on loading prefab
+- Fixed the low performance issue on Canvas mode when tinting
+- Fixed Color Chooser wrong pick issue after removing preset colors 
+- Fixed publishing error if scene name is changed
+- Fixed Updating information window behide ProjectWizard issue
+- Fixed failing to load scene when decodeAudioData method not working
+- Fixed assets count keep changing issue when loading
+- Fixed qc.Graphcis memory leak issue
+- Fixed failing to remove WebFont loading listener issue on CacheAsBitmap
+- Fixed wrong duration value on action manager
+- Fixed failing to load asset issue on old IE
+- Fixed texture missing issue on 12、TransitionBehaviour
+- Fixed Tween behaviour's play method can not be invoked in other behaviour's awake method.
+
 ## 2016-03-08, Version 1.0.9
 
 ### Downloads
