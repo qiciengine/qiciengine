@@ -8,6 +8,33 @@ A wide range of [source code examples](http://engine.qiciengine.com/demo/) for y
 ## Desktop Version
 Thanks [zajako](https://github.com/zajako) for helping us to provide QICI desketop version powered by [Electron](http://electron.atom.io/), if you want to try just download it from [here](https://github.com/zajako/qici_desktop/tree/master/Releases).
 
+## 2016-04-22, Version 1.1.1
+[QICI Engine v1.1.1](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.1.1.zip)
+### New Features
+- Add TypeScript support
+- Add speed property to action and support change the speed in action manager
+- Support frame animation, color variation, emission space of particle system
+- Add one-way platform feature of Box2D plugin
+
+### Enhancements
+- Add Kinematic type of Box2D plugin
+- Optimize the inspector layout of Box2D plugin
+- Support set the color property of a filter through color picker
+- Optimize performance of Glow filter
+- Add methods of base object to the event list in action manager
+- Add volume parameter to Sound.addMarker method
+- Scroll bar of the file list and the plugin list will be always visible
+- Add default script version
+- Optimize publish of web platform and android platform
+
+### Bugs Fixes
+- Fixed 'open project failed' issue when create new project
+- Fixed issues when publish to web/android platform in some cases
+- Fixed editor refreshes when publish to any platform
+- Fixed the output format of error stack confused
+- Fixed the inspector script of a plugin will not take effect after changing until refresh the editor manually
+- Fixed exception when set the value of hitarea property to none in RectTransform panel
+
 ## 2016-04-01, Version 1.1.0
 [QICI Engine v1.1.0](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.1.0.zip)
 
