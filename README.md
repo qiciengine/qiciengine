@@ -130,13 +130,13 @@ Details changes for each release are documented in the [release notes](release-n
 
 If you have questions with using QICI Engine please visit our [Ask forum](http://ask.qiciengine.com/), We will answer your questions ASAP.
 
-If you use [Slack](http://slack.com/) and would like to join the [QICI Engine channel](http://qiciengine.slack.com) then please [drop us an email](mailto:linyw@qcplay.com?subject=Slack Invite&body=Please invite me to the QICI Engine slack channel.%0A%0AMy%20email%20address%20is%3A%20___%0AMy%20first%20name%20is%3A%20___%0AMy%20last%20name%20is%3A%20___). All we need is your email address, first name and last name and then we can send you an invite to the channel.
+If you use [Slack](http://slack.com/) and would like to join the [QICI Engine channel](http://qiciengine.slack.com) then please [drop us an email](mailto:weism@qcplay.com?subject=Slack Invite&body=Please invite me to the QICI Engine slack channel.%0A%0AMy%20email%20address%20is%3A%20___%0AMy%20first%20name%20is%3A%20___%0AMy%20last%20name%20is%3A%20___). All we need is your email address, first name and last name and then we can send you an invite to the channel.
 
 If you want to keep up to date with the latest QICI Engine news then just follow us on [Twitter](https://twitter.com/qiciengine) and we will keep you posted!
 
 For more Information, please visit our official [QICI Engine webstie](http://www.qiciengine.com) or [Chinese website](http://www.zuoyouxi.com). 
 
-If you have any questions or if there is something we didn’t cover, please feel free to contact me at [email](mailto:linyw@qcplay.com) or [Twitter](http://twitter.com/sailing8036).
+If you have any questions or if there is something we didn’t cover, please feel free to contact me at [email](mailto:weism@qcplay.com) or [Twitter](http://twitter.com/sailing8036).
 
 ## License
 
