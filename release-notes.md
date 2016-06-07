@@ -8,6 +8,25 @@ A wide range of [source code examples](http://engine.qiciengine.com/demo/) for y
 ## Desktop Version
 Thanks [zajako](https://github.com/zajako) for helping us to provide QICI desketop version powered by [Electron](http://electron.atom.io/), if you want to try just download it from [here](https://github.com/zajako/qici_desktop/tree/master/Releases).
 
+## 2016-06-04, Version 1.1.3
+[QICI Engine v1.1.3](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.1.3.zip)
+### Enhancements
+- Adjust the arrangement and style of editor
+- Optimize the renderer of text in webgl mode
+- Add Box2D/Root component, support setting the root node of physical system
+- Support the display of TypeScript in editor
+- Add resolution ratio setting in project setting panel
+- Optimize the way of changing the game size in project setting panel
+
+### Bugs Fixes
+- Fixed white screen issue in some android device
+- Fixed typesetting of English text break down in some cases
+- Fixed game scaling error when publishing to iOS platform
+- Fixed current scene not saved when saving plugin settings
+- Fixed old projects fail to upgrade completely in some cases
+- Fixed floating-point errors in Box2D
+- Fixed Arcade body's position is wrong in the first frame
+
 ## 2016-04-22, Version 1.1.1
 [QICI Engine v1.1.1](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.1.1.zip)
 ### New Features
