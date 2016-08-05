@@ -8,6 +8,16 @@ A wide range of [source code examples](http://engine.qiciengine.com/demo/) for y
 ## Desktop Version
 Thanks [zajako](https://github.com/zajako) for helping us to provide QICI desketop version powered by [Electron](http://electron.atom.io/), if you want to try just download it from [here](https://github.com/zajako/qici_desktop/tree/master/Releases).
 
+## 2016-08-05, Version 1.1.5
+[QICI Engine v1.1.5](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.1.5.zip)
+### Enhancements
+- Optimize main UI of editor
+
+### Bugs Fixes
+- Fixed armature's rotation not work in DragonBones animation
+- Fixed glow color of UIText display wrong
+- Fixed deserialize error when using TypeScript
+
 ## 2016-06-04, Version 1.1.3
 [QICI Engine v1.1.3](https://github.com/qiciengine/qiciengine/raw/master/releases/qiciengine-1.1.3.zip)
 ### Enhancements
